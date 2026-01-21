@@ -1,8 +1,8 @@
 # DevOps Portfolio
 Mijn projecten en opdrachten voor de module DevOps.
 ## Over Mij
-- **Naam**: [Jouw Naam]
-- **Opleiding**: [Opleiding]
+- **Naam**: [Remco Pruim]
+- **Opleiding**: [IT System and engineer]
 - **Jaar**: 2025/2026
 ## Projecten
 ### 1. Docker Basics
