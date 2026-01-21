@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.Python
+*.so
+*.egg-info/
+venv/
+.venv/
+# Environment
+.env
+.env.local
+*.env
+# Docker
+docker-compose.override.yml
+# IDE
+.vscode/
+.idea/
+*.swp
+# OS
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Database
+*.db
+*.sqlite
+*.sqlite3
