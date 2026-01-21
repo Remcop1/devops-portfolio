@@ -11,7 +11,8 @@ Eerste kennismaking met Docker. Simpele nginx webserver in een container.
 Geavanceerde Docker concepten: volumes, networks, environment variabelen.
 ### 3. Docker Compose
 Multi-container applicatie met Flask, PostgreSQL en Adminer.
-## Technologieën
+### 4. Git Basics
+Eerste kennismaking met Git versiebeheer.
 - Docker & Docker Compose
 - Python & Flask
 - PostgreSQL
